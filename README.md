@@ -1,6 +1,6 @@
 # Space-Balloon-Flight-Prediction-Tool
 
-Update: The Penn Aerospace Club Balloon Team has updated this algorithm and used it in a Simulink Model that works much better. I re-wrote the code with Alexis Mitchnick and Dani Gelb. The code is available here: https://github.com/PennAerospaceClub/HAB11/tree/master/AltControl. 
+Update: The Penn Aerospace Club Balloon Team has updated this algorithm and used it in a Simulink Model that works much better. Alexis Mitchnick, Dani Gelb, and I contributed to the Simulink model.  The code is available here: https://github.com/PennAerospaceClub/HAB11/tree/master/AltControl. 
 
 This is a tool I wrote in MATLAB that takes inputs about balloon mass, payload mass, and volume to determine the vertical trajectory of the balloon as a function of time. This functionality is used by our High Altitude Balloon team when determining aerial photography and altitude changing maneuvers. 
 
