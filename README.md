@@ -4,7 +4,8 @@ Update: The Penn Aerospace Club Balloon Team has updated this algorithm and used
 
 This is a tool I wrote in MATLAB that takes inputs about balloon mass, payload mass, and volume to determine the vertical trajectory of the balloon as a function of time. This functionality is used by our High Altitude Balloon team when determining aerial photography and altitude changing maneuvers. 
 
-This is a screenshot of the GUI: https://www.dropbox.com/s/o5twxiwmo0t4n7t/Screenshot%202016-10-16%2016.21.24.png?dl=0
+This is a screenshot of the GUI: 
+<img width="921" alt="screenshot 2016-10-16 16 21 24" src="https://user-images.githubusercontent.com/12130094/29479108-3a599148-8425-11e7-8308-c60e043ef71a.png">
 
 The basis of the math behind the tool is as follows: 
 
